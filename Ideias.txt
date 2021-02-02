@@ -1,0 +1,10 @@
+-Black Theme
+-Tirar 2 fotos com a camisa azul,
+uma pra capa e a outra pro profile,
+tratar no portfólio pra deixar a camisa vermelha/rosa.
+-Substituir o azul por vermelho/rosa, mesmo cógico RGB da iluminação do gabinete.
+-Fonte para título vai ser azonix;
+-Fonte para texto cooper;
+
+-cor de fundo branco substituir por gelo;
+-colocar double borda na div profile e contato;
